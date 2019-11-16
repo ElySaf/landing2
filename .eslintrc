@@ -17,6 +17,7 @@
     "es6": true
   },
   "rules": {
+    "max-len": ["error", {"code": 200}],
     "space-before-function-paren": "off",
     "react/prefer-stateless-function": "warn",
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],

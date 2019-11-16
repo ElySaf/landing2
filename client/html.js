@@ -9,7 +9,7 @@ const Html = ({
       <link rel="stylesheet" type="text/css" href="/css/main.css" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
     </head>
-    <body>
+    <body class="landing" >
       <div id="root">${body}</div>
       <script type="text/javascript" src="/js/bundle.js?v=COMMITHASH"></script>
     </body>
